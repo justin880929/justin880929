@@ -11,6 +11,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=justin880929&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=justin880929&icon=3&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=justin880929&label=Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
